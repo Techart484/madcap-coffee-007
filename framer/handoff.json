@@ -1,0 +1,28 @@
+{
+  "archetype": "premium-brutalist",
+  "canvasUrl": "https://framer.com/projects/frm_e7b6e310/madcap-coffee-polished",
+  "wsChannel": "wss://framer.com/canvas/frm_e7b6e310",
+  "palette": {
+    "primary": "#2C2C2C",
+    "accent": "#A34A2A",
+    "bg": "#FFFFFF",
+    "surface": "#F5F5F5",
+    "fg": "#333333"
+  },
+  "motion": {
+    "preset": "snap.cut",
+    "easing": "cubic-bezier(.2,.8,.2,1)",
+    "duration": 220,
+    "springs": [
+      "stiff",
+      "tight"
+    ]
+  },
+  "effects": [
+    "1px hairline grid",
+    "monospace meta labels",
+    "scroll-jacked sections",
+    "no shadows"
+  ],
+  "sourceDeploymentUrl": "https://madcap-coffee-2026-cfeae949.vercel.app"
+}
